@@ -8,6 +8,8 @@ A 2D game of expanding survival space by placing bombs
 作者：江西省赣州中学2022级5班 潘云朗  
 指导老师：余欢昌
 
+下载：https://github.com/sdtkwxt/ZST/releases
+
 # Changelog
 
 All notable changes to this project will be documented in this file.

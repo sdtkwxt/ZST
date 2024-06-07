@@ -1,7 +1,10 @@
-# ZST - A 2D game of expanding survival space by placing bombs
+# ZST
+A 2D game of expanding survival space by placing bombs  
 炸(朱)石(诗)头(彤) - 通过放置炸弹扩展生存空间的 2D 游戏  
 
-`BY SIDE`  
+[![pktP7AP.jpg](https://s21.ax1x.com/2024/06/07/pktP7AP.jpg)](https://imgse.com/i/pktP7AP)
+
+**BY SIDE**  
 作者：江西省赣州中学2022级5班 潘云朗  
 指导老师：余欢昌
 

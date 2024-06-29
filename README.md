@@ -14,6 +14,16 @@ A 2D game of expanding survival space by placing bombs
 
 All notable changes to this project will be documented in this file.
 
+## ZST v1.9【补帧更新】 - 2024-6-29
+1.	新增BGM“平安时代的外星人”和“小小的贤将”。
+2.	新增在Extra和Extra++模式下禁止“重置游戏”的设定。
+3.	新增“补帧”功能，它基本上是提供更高的帧速率，而不会影响代码的运行速度。
+4.	修复在Extra和Extra++模式下右侧信息显示的“Rise”为紫色而非红色的BUG。
+5.	修复“R键提示位置”可穿过边界到右侧信息显示栏的BUG。
+6.	修复帮助界面“游戏进行时”中方块不变大变小的BUG。
+7.	修复安装程序不覆盖原有文件的BUG。
+8.	提升程序稳定性，修复部分小BUG。
+
 ## ZST v1.8【上升加速】 - 2024-6-1
 1.	新增BGM“古老的元神”。
 2.	增强动态上升间隔（即随着游戏时间推移，上升的会越来越快，以前的版本有但不明显）。
